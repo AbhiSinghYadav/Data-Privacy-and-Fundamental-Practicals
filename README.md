@@ -9,17 +9,17 @@ Practicals Included
 To hide and send a secret message inside an image using steganography techniques.
 
 **Tools Used**
-1.OpenStego Software 
-2.Notepad 
+1.OpenStego Software\
+2.Notepad\
 3.Image File (JPG/PNG)
 
 **Steps Overview**
-1.Create a secret message file (message.txt)
-2.Open OpenStego software
-3.Select Hide Data option
-4.Choose message file and cover image
-5.Set output file and optional password
-6.Embed the message into the image
+1.Create a secret message file (message.txt)\
+2.Open OpenStego software\
+3.Select Hide Data option\
+4.Choose message file and cover image\
+5.Set output file and optional password\
+6.Embed the message into the image\
 7.Extract the hidden message when needed
 
 **Output**
