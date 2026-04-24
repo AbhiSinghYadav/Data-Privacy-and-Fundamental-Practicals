@@ -6,12 +6,12 @@ Practicals Included\
 🧪 **Practical 1**: **Sending Secret Message using Steganography**
 
 **Aim**\
-To hide and send a secret message inside an image using steganography techniques.\
+To hide and send a secret message inside an image using steganography techniques.
 
 **Tools Used**\
 1.OpenStego Software\
 2.Notepad\
-3.Image File (JPG/PNG)\
+3.Image File (JPG/PNG)
 
 **Steps Overview**\
 1.Create a secret message file (message.txt)\
@@ -20,7 +20,7 @@ To hide and send a secret message inside an image using steganography techniques
 4.Choose message file and cover image\
 5.Set output file and optional password\
 6.Embed the message into the image\
-7.Extract the hidden message when needed\
+7.Extract the hidden message when needed
 
 **Output**\
 Secret message successfully embedded and extracted from the image\
@@ -67,5 +67,5 @@ Ability to identify active hosts and open ports
 ⚠️ Disclaimer\
 These practicals are performed for educational purposes only. Do not use these tools or techniques on unauthorized systems or networks.
 
-**Author**
+**Author**\
 **Abhi Singh Yadav**
