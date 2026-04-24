@@ -1,9 +1,9 @@
-🔐 **Cyber Security Practicals**\
+🔐 **Cyber Security Practicals**
 
 This repository contains hands-on practical implementations related to Cyber Security concepts, including Steganography and Network Scanning using Nmap. These experiments help in understanding real-world security techniques and tools.
 
 Practicals Included\
-🧪 **Practical 1**: **Sending Secret Message using Steganography**\
+🧪 **Practical 1**: **Sending Secret Message using Steganography**
 
 **Aim**\
 To hide and send a secret message inside an image using steganography techniques.\
@@ -24,16 +24,16 @@ To hide and send a secret message inside an image using steganography techniques
 
 **Output**\
 Secret message successfully embedded and extracted from the image\
-Confirmation messages shown in OpenStego (as seen in screenshots on pages 2–3)\
+Confirmation messages shown in OpenStego (as seen in screenshots on pages 2–3)
 
-🌐 **Practical 2**: **Network Scanning and Host Discovery using Nmap**\
+🌐 **Practical 2**: **Network Scanning and Host Discovery using Nmap**
 
 **Aim**\
-To perform network scanning and identify active hosts in a network using Nmap.\
+To perform network scanning and identify active hosts in a network using Nmap.
 
 **Tools Used**\
 Kali Linux\
-Nmap\
+Nmap
 
 **Steps Overview**\
 1.Launch Kali Linux terminal\
@@ -51,21 +51,21 @@ Nmap\
 7.Scan specific port range\
    nmap -p 1-1000 192.168.1.10\
 8.Save scan results\
-   nmap -oN output.txt 192.168.1.10\
+   nmap -oN output.txt 192.168.1.10
 
 **Output**\
 Active hosts identified in the network (shown in page 2 screenshot)\
-Open ports and scan results displayed in terminal\
+Open ports and scan results displayed in terminal
 
 **Learning Outcomes**\
 Understanding of data hiding (Steganography) techniques\
 Hands-on experience with OpenStego tool\
 Knowledge of network scanning and reconnaissance\
 Practical use of Nmap commands\
-Ability to identify active hosts and open ports\
+Ability to identify active hosts and open ports
 
 ⚠️ Disclaimer\
-These practicals are performed for educational purposes only. Do not use these tools or techniques on unauthorized systems or networks.\
+These practicals are performed for educational purposes only. Do not use these tools or techniques on unauthorized systems or networks.
 
 **Author**
 **Abhi Singh Yadav**
